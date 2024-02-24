@@ -1,0 +1,32 @@
+{
+    "face-to-face": 1,
+    "chapters": [
+        {
+            "chapter_id": 1,
+            "base_point": 10,
+            "first_point": 30,
+            "second_point": 20,
+            "third_point": 10,
+            "output": "2",
+            "keywords": [
+                "for",
+                "if"
+            ],
+            "solved": 2
+        },
+        {
+            "chapter_id": 2,
+            "base_point": 10,
+            "first_point": 30,
+            "second_point": 20,
+            "third_point": 10,
+            "output": "5",
+            "keywords": [
+                "for",
+                "if"
+            ],
+            "solved": 1
+        }
+    ]
+  }
+  

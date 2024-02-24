@@ -1,0 +1,9 @@
+2024-02-21 23:01:03.230 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1"
+
+2024-02-21 23:01:03.920 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4"
+
+2024-02-21 23:03:03.689 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "8"
+
+2024-02-21 23:03:04.804 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "10"
+
+2024-02-21 23:15:23.433 [info] [Error - 11:15:23 PM] Server process exited with signal SIGTERM.

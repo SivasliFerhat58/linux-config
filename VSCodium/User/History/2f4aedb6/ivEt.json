@@ -1,0 +1,10 @@
+{
+    "title":"Create Numpy Array",
+    "description":"./descriptions/lab2/main.md",
+    "tasks": [
+        {
+            "description":"./descriptions/lab2/1.md",
+            "unittests":"./unittests/1.py"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+2024-02-21 00:53:21.939 [info] Getting Manifest... pkief.material-icon-theme
+2024-02-21 00:53:23.493 [info] Installing extension: pkief.material-icon-theme
+2024-02-21 00:53:32.321 [info] Extension signature verification is not done: pkief.material-icon-theme
+2024-02-21 00:53:33.625 [info] Extracted extension to file:///home/sivasli_58/.vscode-oss/extensions/pkief.material-icon-theme-4.34.0-universal: pkief.material-icon-theme
+2024-02-21 00:53:33.637 [info] Renamed to /home/sivasli_58/.vscode-oss/extensions/pkief.material-icon-theme-4.34.0-universal
+2024-02-21 00:53:33.648 [info] Extracting extension completed. pkief.material-icon-theme
+2024-02-21 00:53:33.669 [info] Extension installed successfully: pkief.material-icon-theme
+2024-02-21 00:53:33.680 [info] Marked extension as uninstalled pkief.material-icon-theme-4.33.0-universal
+2024-02-21 00:53:33.747 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sivasli_58/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sivasli_58/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35852)
+    at a (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35986)
+    at s.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47852)
+    at s.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:38447)
+    at async C.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20932)
+    at async Y.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:138138)
+2024-02-21 01:42:11.165 [info] Getting Manifest... smcpeak.default-keys-windows
+2024-02-21 01:42:11.397 [info] Installing extension: smcpeak.default-keys-windows
+2024-02-21 01:42:13.561 [info] Extension signature verification is not done: smcpeak.default-keys-windows
+2024-02-21 01:42:13.593 [info] Extracted extension to file:///home/sivasli_58/.vscode-oss/extensions/smcpeak.default-keys-windows-0.0.10-universal: smcpeak.default-keys-windows
+2024-02-21 01:42:13.599 [info] Renamed to /home/sivasli_58/.vscode-oss/extensions/smcpeak.default-keys-windows-0.0.10-universal
+2024-02-21 01:42:13.600 [info] Extracting extension completed. smcpeak.default-keys-windows
+2024-02-21 01:42:13.609 [info] Extension installed successfully: smcpeak.default-keys-windows
+2024-02-21 01:42:13.685 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sivasli_58/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sivasli_58/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35852)
+    at a (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35986)
+    at s.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47852)
+    at s.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:38447)
+    at async C.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20932)
+    at async Y.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:138138)
+2024-02-21 01:44:01.520 [info] Getting Manifest... aaron-bond.better-comments
+2024-02-21 01:44:01.742 [info] Installing extension: aaron-bond.better-comments
+2024-02-21 01:44:04.453 [info] Extension signature verification is not done: aaron-bond.better-comments
+2024-02-21 01:44:04.493 [info] Extracted extension to file:///home/sivasli_58/.vscode-oss/extensions/aaron-bond.better-comments-3.0.2-universal: aaron-bond.better-comments
+2024-02-21 01:44:04.498 [info] Renamed to /home/sivasli_58/.vscode-oss/extensions/aaron-bond.better-comments-3.0.2-universal
+2024-02-21 01:44:04.501 [info] Extracting extension completed. aaron-bond.better-comments
+2024-02-21 01:44:04.512 [info] Extension installed successfully: aaron-bond.better-comments
+2024-02-21 01:44:04.583 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sivasli_58/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sivasli_58/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35852)
+    at a (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35986)
+    at s.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47852)
+    at s.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:38447)
+    at async C.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20932)
+    at async Y.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:138138)

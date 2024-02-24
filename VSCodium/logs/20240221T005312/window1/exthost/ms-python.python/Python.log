@@ -1,0 +1,23 @@
+2024-02-21 01:33:19.434 [info] Telemetry level is off
+2024-02-21 01:33:19.434 [info] Experiments are disabled, only manually opted experiments are active.
+2024-02-21 01:33:19.434 [info] Default formatter is set to null for workspace /home/sivasli_58/Documents/PROJECTS/MTahir_Bot
+2024-02-21 01:33:19.434 [info] Test server listening.
+2024-02-21 01:33:19.434 [info] Python interpreter path: /bin/python
+2024-02-21 01:33:20.846 [info] Starting Jedi language server for MTahir_Bot.
+2024-02-21 01:36:05.509 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/prototype1.py
+2024-02-21 01:38:48.742 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/prototype1.py
+2024-02-21 01:41:44.576 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/prototype1.py
+2024-02-21 01:44:55.064 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/prototype1.py
+2024-02-21 02:03:33.319 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:04:14.138 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:04:39.917 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:05:07.116 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:05:12.184 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:05:14.860 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:05:51.204 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:05:52.367 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:06:02.603 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:08:27.359 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:08:29.994 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:08:34.765 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py
+2024-02-21 02:08:46.677 [info] Discover tests for workspace name: MTahir_Bot - uri: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py

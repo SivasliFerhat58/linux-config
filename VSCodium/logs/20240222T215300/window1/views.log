@@ -1,0 +1,14 @@
+2024-02-22 21:53:03.904 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-02-22 21:53:03.904 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-02-22 21:53:03.904 [info] Added views:terminal in terminal
+2024-02-22 21:53:03.904 [info] Added views:outline in workbench.view.explorer
+2024-02-22 21:53:03.904 [info] Added views:workbench.scm in workbench.view.scm
+2024-02-22 21:53:03.904 [info] Added views:workbench.view.search in workbench.view.search
+2024-02-22 21:53:03.904 [info] Added views:timeline in workbench.view.explorer
+2024-02-22 21:53:03.904 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-02-22 21:53:04.407 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-02-22 21:53:04.810 [info] Added views:houston.hello in workbench.view.explorer
+2024-02-22 21:53:05.375 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-02-22 21:53:05.866 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2024-02-22 21:53:11.905 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-02-22 23:48:45.069 [info] Removed views:workbench.view.testing from workbench.view.extension.test

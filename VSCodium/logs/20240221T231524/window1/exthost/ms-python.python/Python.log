@@ -1,0 +1,7 @@
+2024-02-21 23:15:37.342 [info] Telemetry level is off
+2024-02-21 23:15:37.342 [info] Experiments are disabled, only manually opted experiments are active.
+2024-02-21 23:15:37.342 [info] Default formatter is set to null for workspace /home/sivasli_58/Documents/PROJECTS/MTahir_Bot
+2024-02-21 23:15:37.342 [info] Test server listening.
+2024-02-21 23:15:37.342 [info] Python interpreter path: /bin/python
+2024-02-21 23:15:38.731 [info] Starting Jedi language server for MTahir_Bot.
+2024-02-21 23:40:18.735 [info] Discover tests for workspace name: undefined - uri: /home/sivasli_58/.config/VSCodium/User/settings.json

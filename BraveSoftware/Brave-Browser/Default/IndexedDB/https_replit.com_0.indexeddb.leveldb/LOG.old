@@ -1,0 +1,13 @@
+2024/02/11-21:03:59.438 50b Reusing MANIFEST /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_replit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/11-21:03:59.438 50b Recovering log #79
+2024/02/11-21:03:59.439 50b Reusing old log /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_replit.com_0.indexeddb.leveldb/000079.log 
+2024/02/11-21:03:59.739 52b Level-0 table #85: started
+2024/02/11-21:03:59.741 52b Level-0 table #85: 4023 bytes OK
+2024/02/11-21:03:59.743 52b Delete type=0 #79
+2024/02/11-21:03:59.744 52b Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/11-21:04:40.091 50b Compacting 1@1 + 1@2 files
+2024/02/11-21:04:40.098 50b Generated table #86@1: 42 keys, 3630 bytes
+2024/02/11-21:04:40.098 50b Compacted 1@1 + 1@2 files => 3630 bytes
+2024/02/11-21:04:40.104 50b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/11-21:04:40.105 50b Delete type=2 #82
+2024/02/11-21:04:40.105 50b Delete type=2 #85

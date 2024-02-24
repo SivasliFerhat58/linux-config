@@ -1,0 +1,10 @@
+{
+    "title":"İmport Numpy",
+    "description":"./descriptions/lab1/main.md",
+    "tasks": [
+        {
+            "description":"./descriptions/lab1/1.md",
+            "unittests":"./unittests/1.py
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "chapters": [
+        {
+            "chapter_id": 1,
+            "lessons": [
+                {
+                    "base_point": 10,
+                    "first_point": 50,
+                    "second_point": 20,
+                    "third_point": 10,
+                    "output": "22",
+                    "keywords": [
+                        "for",
+                        "if"
+                    ],
+                    "solved": 1,
+                    "night_point": 10
+                },
+                {
+                    "base_point": 10,
+                    "first_point": 30,
+                    "second_point": 20,
+                    "third_point": 10,
+                    "output": "2",
+                    "keywords": [
+                        "for",
+                        "if"
+                    ],
+                    "solved": 1,
+                    "night_point": 10
+                }
+            ]
+        }
+    ],
+    "facetoface": 0
+}

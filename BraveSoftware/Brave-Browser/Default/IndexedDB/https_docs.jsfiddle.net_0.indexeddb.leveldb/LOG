@@ -1,0 +1,7 @@
+2024/02/21-00:57:08.811 329 Reusing MANIFEST /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.jsfiddle.net_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/21-00:57:08.812 329 Recovering log #6
+2024/02/21-00:57:08.812 329 Reusing old log /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.jsfiddle.net_0.indexeddb.leveldb/000006.log 
+2024/02/21-00:57:09.586 335 Level-0 table #11: started
+2024/02/21-00:57:09.588 335 Level-0 table #11: 808 bytes OK
+2024/02/21-00:57:09.591 335 Delete type=0 #6
+2024/02/21-00:57:09.591 335 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

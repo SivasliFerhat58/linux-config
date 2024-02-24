@@ -1,0 +1,6 @@
+2024/02/02-12:34:29.551 137f Creating DB /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.workspace.fiverr.com_0.indexeddb.leveldb since it was missing.
+2024/02/02-12:34:29.558 137f Reusing MANIFEST /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.workspace.fiverr.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/02-12:35:01.584 1380 Level-0 table #5: started
+2024/02/02-12:35:01.587 1380 Level-0 table #5: 1053 bytes OK
+2024/02/02-12:35:01.591 1380 Delete type=0 #3
+2024/02/02-12:35:01.591 1380 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

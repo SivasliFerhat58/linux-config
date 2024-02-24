@@ -1,0 +1,7 @@
+{
+    "window.titleBarStyle": "custom",
+    "editor.fontFamily": "\"Poppins\"",
+    "editor.smoothScrolling": true,
+    "editor.mouseWheelZoom": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+}

@@ -1,0 +1,3 @@
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[{\"address\":\"192.168.1.103\",\"app_state\":\"MISSING\",\"created_timestamp\":1708701547,\"device_id\":\"00000000-0000-0000-0000-54df1badaa8a\",\"dial_location_url\":\"http://192.168.1.104:56790/dd.xml\",\"display_name\":\"Mediatek_MTXXXX\",\"last_seen\":1708791434,\"manufacturer\":\"MediaTek Inc.\",\"model_name\":\"Mediatek_MTXXXX\",\"product_cap\":\"\",\"public_ip\":\"95.5.64.206\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"0e0043b74738\",\"port\":9,\"retries\":1200}}]"
+app.player.volume=23254

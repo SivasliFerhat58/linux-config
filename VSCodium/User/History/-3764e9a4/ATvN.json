@@ -1,0 +1,15 @@
+[
+    {
+        "type":"article",
+        "dir":"./articles/numpyarticle.md"
+    },
+    {
+        "type":"article",
+        "dir":"./articles/machine.md"
+    },
+    {
+        "type":"lab",
+        "dir":"./labs/lab1"
+    }
+
+]

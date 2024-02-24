@@ -1,0 +1,80 @@
+2024-02-21 01:34:02.383 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6"
+
+2024-02-21 01:35:24.613 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "13"
+
+2024-02-21 01:35:25.035 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "14"
+
+2024-02-21 01:36:25.454 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "33"
+
+2024-02-21 01:37:48.582 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "59"
+
+2024-02-21 01:37:58.076 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "75"
+
+2024-02-21 01:38:43.021 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "98"
+
+2024-02-21 01:39:31.523 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "155"
+
+2024-02-21 01:39:31.774 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "156"
+
+2024-02-21 01:39:32.117 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "158"
+
+2024-02-21 01:39:43.455 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "179"
+
+2024-02-21 01:39:44.827 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "180"
+
+2024-02-21 01:39:55.377 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "199"
+
+2024-02-21 01:44:44.895 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "285"
+
+2024-02-21 01:48:38.885 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "326"
+
+2024-02-21 02:02:46.653 [info] ERROR:pygls.protocol:Failed to handle request 344 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///home/sivasli_58/Documents/PROJECTS/MTahir_Bot/prototype1.py'), range=62:31-62:31, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ^^^^^^^^^^^^^^^
+  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action
+    extract_variable_refactoring = jedi_script.extract_variable(
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable
+    return extract_variable(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable
+    nodes = _find_nodes(module_node, pos, until_pos)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes
+    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/refactoring/extract.py", line 198, in _remove_unwanted_expression_nodes
+    nodes[0:1] = _remove_unwanted_expression_nodes(nodes[0], pos, until_pos)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes
+    nodes = nodes[start_index:end_index + 1]
+            ^^^^^
+UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+
+2024-02-21 02:02:46.659 [info] [Error - 2:02:46 AM] Request textDocument/codeAction failed.
+2024-02-21 02:02:46.659 [info]   Message: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+  Code: -32602 
+{'traceback': ['  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n                                ^^^^^^^^^^^^^^^\n', '  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action\n    extract_variable_refactoring = jedi_script.extract_variable(\n                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper\n    return func(self, line, column, *args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable\n    return extract_variable(\n           ^^^^^^^^^^^^^^^^^\n', '  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable\n    nodes = _find_nodes(module_node, pos, until_pos)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes\n    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/refactoring/extract.py", line 198, in _remove_unwanted_expression_nodes\n    nodes[0:1] = _remove_unwanted_expression_nodes(nodes[0], pos, until_pos)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/sivasli_58/.vscode-oss/extensions/ms-python.python-2024.0.1-universal/pythonFiles/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes\n    nodes = nodes[start_index:end_index + 1]\n            ^^^^^\n']}
+2024-02-21 02:03:15.241 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "362"
+
+2024-02-21 02:03:30.239 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "381"
+
+2024-02-21 02:04:05.041 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "422"
+
+2024-02-21 02:04:55.347 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "464"
+
+2024-02-21 02:04:59.781 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "465"
+
+2024-02-21 02:05:08.862 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "482"
+
+2024-02-21 02:05:10.274 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "487"
+
+2024-02-21 02:08:16.109 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "538"
+

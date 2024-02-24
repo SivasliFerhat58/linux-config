@@ -1,0 +1,15 @@
+2024-02-21 22:53:08.100 [info] Deleted uninstalled extension from disk pkief.material-icon-theme /home/sivasli_58/.vscode-oss/extensions/pkief.material-icon-theme-4.33.0-universal
+2024-02-21 23:00:29.112 [info] Getting Manifest... leonardssh.vscord
+2024-02-21 23:00:29.305 [info] Installing extension: leonardssh.vscord
+2024-02-21 23:00:36.436 [info] Extension signature verification is not done: leonardssh.vscord
+2024-02-21 23:00:36.475 [info] Extracted extension to file:///home/sivasli_58/.vscode-oss/extensions/leonardssh.vscord-5.1.18-universal: leonardssh.vscord
+2024-02-21 23:00:36.479 [info] Renamed to /home/sivasli_58/.vscode-oss/extensions/leonardssh.vscord-5.1.18-universal
+2024-02-21 23:00:36.482 [info] Extracting extension completed. leonardssh.vscord
+2024-02-21 23:00:36.495 [info] Extension installed successfully: leonardssh.vscord
+2024-02-21 23:00:36.573 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sivasli_58/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sivasli_58/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35852)
+    at a (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35986)
+    at s.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47852)
+    at s.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:38447)
+    at async C.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20932)
+    at async Y.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:138138)

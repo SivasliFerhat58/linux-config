@@ -1,0 +1,7 @@
+2024/02/03-23:08:09.509 32d Reusing MANIFEST /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_aternos.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/03-23:08:09.509 32d Recovering log #3
+2024/02/03-23:08:09.509 32d Reusing old log /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_aternos.org_0.indexeddb.leveldb/000003.log 
+2024/02/03-23:36:18.142 321 Level-0 table #5: started
+2024/02/03-23:36:18.145 321 Level-0 table #5: 1037 bytes OK
+2024/02/03-23:36:18.148 321 Delete type=0 #3
+2024/02/03-23:36:18.148 321 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

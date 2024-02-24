@@ -1,0 +1,28 @@
+2024-02-24 11:29:09.746 [info] Log level: Info
+2024-02-24 11:29:09.746 [info] Validating found git in: "git"
+2024-02-24 11:29:09.746 [info] Using git "2.43.0" from "git"
+2024-02-24 11:29:09.746 [info] > git rev-parse --show-toplevel [13ms]
+2024-02-24 11:29:09.746 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-02-24 11:29:09.746 [info] Open repository: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot
+2024-02-24 11:29:09.748 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-24 11:29:09.749 [info] > git config --get commit.template [14ms]
+2024-02-24 11:29:09.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-24 11:29:09.775 [info] > git rev-parse --show-toplevel [15ms]
+2024-02-24 11:29:10.073 [info] > git status -z -uall [5ms]
+2024-02-24 11:29:10.104 [info] > git config --get commit.template [6ms]
+2024-02-24 11:29:10.167 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [44ms]
+2024-02-24 11:29:10.199 [info] > git status -z -uall [14ms]
+2024-02-24 11:29:10.464 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-24 11:29:10.995 [info] > git show --textconv :prototype1.py [16ms]
+2024-02-24 11:29:11.014 [info] > git ls-files --stage -- /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/prototype1.py [20ms]
+2024-02-24 11:29:11.050 [info] > git cat-file -s 85609942db2581e9e0d6dd0adc374e49f2673fda [25ms]
+2024-02-24 11:29:14.252 [info] > git fetch [4532ms]
+2024-02-24 11:29:14.252 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/SivasliFerhat58/mtd-bot.git/'
+2024-02-24 11:29:14.284 [info] > git config --get commit.template [9ms]
+2024-02-24 11:29:14.305 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2024-02-24 11:29:14.316 [info] > git status -z -uall [1ms]

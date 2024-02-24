@@ -1,0 +1,72 @@
+2024-02-21 23:40:28.314 [info] Name: autopep8
+2024-02-21 23:40:28.314 [info] Module: autopep8
+2024-02-21 23:40:28.314 [info] Default formatter is set to null for workspace /home/sivasli_58/Documents/PROJECTS/MTahir_Bot
+2024-02-21 23:40:28.314 [warning] autopep8 Formatter is NOT set as the default formatter for workspace /home/sivasli_58/Documents/PROJECTS/MTahir_Bot
+2024-02-21 23:40:28.314 [warning] To set autopep8 Formatter as the default formatter, add the following to your settings.json file:
+2024-02-21 23:40:28.314 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+}
+2024-02-21 23:40:28.314 [info] Python extension loading
+2024-02-21 23:40:28.314 [info] Waiting for interpreter from python extension.
+2024-02-21 23:40:28.314 [info] No interpreter found from setting autopep8.interpreter
+2024-02-21 23:40:28.314 [info] Getting interpreter from ms-python.python extension for workspace /home/sivasli_58/Documents/PROJECTS/MTahir_Bot
+2024-02-21 23:40:28.314 [info] Python extension loaded
+2024-02-21 23:40:28.314 [info] Interpreter from ms-python.python extension for /home/sivasli_58/Documents/PROJECTS/MTahir_Bot: /bin/python
+2024-02-21 23:40:28.314 [info] No interpreter found from setting autopep8.interpreter
+2024-02-21 23:40:28.314 [info] Getting interpreter from ms-python.python extension for workspace /home/sivasli_58/Documents/PROJECTS/MTahir_Bot
+2024-02-21 23:40:28.314 [info] Interpreter from ms-python.python extension for /home/sivasli_58/Documents/PROJECTS/MTahir_Bot: /bin/python
+2024-02-21 23:40:28.314 [info] Server run command: /bin/python /home/sivasli_58/.vscode-oss/extensions/ms-python.autopep8-2023.8.0-universal/bundled/tool/lsp_server.py
+2024-02-21 23:40:28.314 [info] Server: Start requested.
+2024-02-21 23:40:29.777 [info] CWD Server: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot
+2024-02-21 23:40:29.777 [info] sys.path used to run Server:
+   /home/sivasli_58/.vscode-oss/extensions/ms-python.autopep8-2023.8.0-universal/bundled/libs
+   /home/sivasli_58/.vscode-oss/extensions/ms-python.autopep8-2023.8.0-universal/bundled/tool
+   /usr/lib/python311.zip
+   /usr/lib/python3.11
+   /usr/lib/python3.11/lib-dynload
+   /usr/lib/python3.11/site-packages
+2024-02-21 23:40:29.777 [info] PYTHONPATH env variable used to run Server:
+   /home/sivasli_58/.vscode-oss/extensions/ms-python.autopep8-2023.8.0-universal/bundled/libs:
+2024-02-21 23:40:29.778 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/sivasli_58/Documents/PROJECTS/MTahir_Bot",
+        "workspace": "file:///home/sivasli_58/Documents/PROJECTS/MTahir_Bot",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2024-02-21 23:40:29.778 [info] Global settings:
+{
+    "cwd": "/home/sivasli_58",
+    "workspace": "/home/sivasli_58",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2024-02-21 23:40:29.784 [info] /bin/python -m autopep8 --version
+2024-02-21 23:40:29.784 [info] CWD Server: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot
+2024-02-21 23:40:29.944 [info] Version info for formatter running for /home/sivasli_58/Documents/PROJECTS/MTahir_Bot:
+autopep8 2.0.4 (pycodestyle: 2.11.1)
+
+2024-02-21 23:40:29.944 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.4
+
+2024-02-21 23:40:29.944 [info] /bin/python -m autopep8 --version
+2024-02-21 23:40:29.944 [info] CWD Server: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot
+2024-02-21 23:40:30.073 [info] Version info for formatter running for /home/sivasli_58/Documents/PROJECTS/MTahir_Bot:
+autopep8 2.0.4 (pycodestyle: 2.11.1)
+
+2024-02-21 23:40:30.073 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.4
+

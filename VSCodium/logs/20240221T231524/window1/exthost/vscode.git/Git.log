@@ -1,0 +1,40 @@
+2024-02-21 23:15:29.225 [info] Log level: Info
+2024-02-21 23:15:29.225 [info] Validating found git in: "git"
+2024-02-21 23:15:29.225 [info] Using git "2.43.0" from "git"
+2024-02-21 23:15:29.225 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-21 23:15:29.225 [info] > git rev-parse --git-dir --git-common-dir [59ms]
+2024-02-21 23:15:29.225 [info] Open repository: /home/sivasli_58/Documents/PROJECTS/MTahir_Bot
+2024-02-21 23:15:29.227 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-21 23:15:29.229 [info] > git config --get commit.template [16ms]
+2024-02-21 23:15:29.288 [info] > git rev-parse --show-toplevel [13ms]
+2024-02-21 23:15:29.291 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-02-21 23:15:29.308 [info] > git status -z -uall [2ms]
+2024-02-21 23:15:29.334 [info] > git config --get commit.template [5ms]
+2024-02-21 23:15:29.348 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-02-21 23:15:29.638 [info] > git status -z -uall [142ms]
+2024-02-21 23:15:29.802 [info] > git check-ignore -v -z --stdin [21ms]
+2024-02-21 23:15:36.455 [info] > git fetch [887ms]
+2024-02-21 23:15:36.455 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/SivasliFerhat58/mtd-bot.git/'
+2024-02-21 23:15:36.472 [info] > git config --get commit.template [8ms]
+2024-02-21 23:15:36.472 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-21 23:15:36.482 [info] > git status -z -uall [2ms]
+2024-02-21 23:15:37.257 [info] > git show --textconv :prototype1.py [14ms]
+2024-02-21 23:15:37.273 [info] > git ls-files --stage -- /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/prototype1.py [18ms]
+2024-02-21 23:15:37.332 [info] > git cat-file -s 85609942db2581e9e0d6dd0adc374e49f2673fda [47ms]
+2024-02-21 23:15:53.327 [info] > git show --textconv :prototype1.py [13ms]
+2024-02-21 23:15:53.329 [info] > git ls-files --stage -- /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/prototype1.py [3ms]
+2024-02-21 23:15:53.342 [info] > git cat-file -s 85609942db2581e9e0d6dd0adc374e49f2673fda [3ms]
+2024-02-21 23:40:03.353 [info] > git show --textconv :prototype1.py [11ms]
+2024-02-21 23:40:03.355 [info] > git ls-files --stage -- /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/prototype1.py [3ms]
+2024-02-21 23:40:03.365 [info] > git cat-file -s 85609942db2581e9e0d6dd0adc374e49f2673fda [2ms]
+2024-02-21 23:40:06.731 [info] > git show --textconv :test.py [8ms]
+2024-02-21 23:40:06.732 [info] > git ls-files --stage -- /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/test.py [2ms]
+2024-02-21 23:40:06.741 [info] > git cat-file -s 45d4a3e784fe6ed0e7a43e0681e767057f905359 [2ms]
+2024-02-21 23:40:19.224 [info] > git show --textconv :prototype1.py [11ms]
+2024-02-21 23:40:19.225 [info] > git ls-files --stage -- /home/sivasli_58/Documents/PROJECTS/MTahir_Bot/prototype1.py [2ms]
+2024-02-21 23:40:19.236 [info] > git cat-file -s 85609942db2581e9e0d6dd0adc374e49f2673fda [2ms]

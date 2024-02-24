@@ -1,0 +1,1 @@
+NumPy kütüphanesini kullanarak, array1 adında bir dizi oluşturup, bu dizideki her bir elemanın karesini alarak ve sonrasında her elemana 2 ekleyen bir kod yazın.

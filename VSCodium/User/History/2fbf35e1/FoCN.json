@@ -1,0 +1,25 @@
+[
+    {
+        "chapter_id": 1,
+        "base_point": 10,
+        "bonus_point": 10,
+        "output": "2",
+        "keywords": [
+            "for",
+            "if",
+            "return value; \nJSON.stringify(person, replacer);"
+        ],
+        "solved": 1
+    },
+    {
+        "chapter_id": 2,
+        "base_point": 10,
+        "bonus_point": 10,
+        "output": "5",
+        "keywords": [
+            "for",
+            "if"
+        ],
+        "solved": 1
+    }
+]

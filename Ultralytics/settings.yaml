@@ -1,0 +1,17 @@
+settings_version: 0.0.4
+datasets_dir: /home/sivasli_58/datasets
+weights_dir: weights
+runs_dir: runs
+uuid: e5d9de04e24f411e31c9814e4f10887b896204493a4b2ba6d1f2fb615e7cac5a
+sync: true
+api_key: ''
+openai_api_key: ''
+clearml: true
+comet: true
+dvc: true
+hub: true
+mlflow: true
+neptune: true
+raytune: true
+tensorboard: true
+wandb: true

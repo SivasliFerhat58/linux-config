@@ -1,0 +1,8 @@
+[Added Associations]
+text/plain=vscodium.desktop;
+text/x-csrc=vscodium.desktop;
+application/x-shellscript=vscodium.desktop;
+image/png=org.cubocore.CoreImage.desktop;
+
+[Default Applications]
+image/png=org.cubocore.CoreImage.desktop

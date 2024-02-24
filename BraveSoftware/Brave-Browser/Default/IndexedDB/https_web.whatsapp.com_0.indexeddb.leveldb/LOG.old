@@ -1,0 +1,46 @@
+2024/02/24-17:04:29.186 339 Reusing MANIFEST /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-005993
+2024/02/24-17:04:29.186 339 Recovering log #7294
+2024/02/24-17:04:29.240 339 Reusing old log /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/007294.log 
+2024/02/24-17:04:34.225 339 Level-0 table #7313: started
+2024/02/24-17:04:34.250 339 Level-0 table #7313: 1122191 bytes OK
+2024/02/24-17:04:34.252 339 Delete type=0 #7294
+2024/02/24-17:04:34.683 33a Compacting 1@0 + 0@1 files
+2024/02/24-17:04:34.710 33a Generated table #7314@0: 20179 keys, 487240 bytes
+2024/02/24-17:04:34.712 33a Generated table #7315@0: 551 keys, 12786 bytes
+2024/02/24-17:04:34.713 33a Compacted 1@0 + 0@1 files => 500026 bytes
+2024/02/24-17:04:34.714 33a compacted to: files[ 0 2 13 0 0 0 0 ]
+2024/02/24-17:04:34.753 33a Compacting 1@1 + 10@2 files
+2024/02/24-17:04:34.838 33a Generated table #7316@1: 35687 keys, 2222717 bytes
+2024/02/24-17:04:34.883 33a Generated table #7317@1: 3249 keys, 2164647 bytes
+2024/02/24-17:04:34.918 33a Generated table #7318@1: 4486 keys, 2158463 bytes
+2024/02/24-17:04:34.946 33a Generated table #7319@1: 4881 keys, 2167685 bytes
+2024/02/24-17:04:35.011 33a Generated table #7320@1: 23587 keys, 2210536 bytes
+2024/02/24-17:04:35.095 33a Generated table #7321@1: 29726 keys, 2260768 bytes
+2024/02/24-17:04:35.162 33a Generated table #7322@1: 26990 keys, 2245907 bytes
+2024/02/24-17:04:35.199 33a Generated table #7323@1: 10404 keys, 2133546 bytes
+2024/02/24-17:04:35.290 33a Generated table #7324@1: 82785 keys, 2226923 bytes
+2024/02/24-17:04:35.401 33a Generated table #7325@1: 100112 keys, 2249835 bytes
+2024/02/24-17:04:35.413 33a Generated table #7326@1: 12260 keys, 277527 bytes
+2024/02/24-17:04:35.413 33a Compacted 1@1 + 10@2 files => 22318554 bytes
+2024/02/24-17:04:35.416 33a compacted to: files[ 0 1 14 0 0 0 0 ]
+2024/02/24-17:04:35.416 33a Delete type=2 #7313
+2024/02/24-17:04:37.160 33a Compacting 1@1 + 3@2 files
+2024/02/24-17:04:37.246 33a Generated table #7327@1: 99690 keys, 2249816 bytes
+2024/02/24-17:04:37.295 33a Generated table #7328@1: 55957 keys, 1269041 bytes
+2024/02/24-17:04:37.295 33a Compacted 1@1 + 3@2 files => 3518857 bytes
+2024/02/24-17:04:37.297 33a compacted to: files[ 0 0 13 0 0 0 0 ]
+2024/02/24-17:04:37.298 33a Delete type=2 #7314
+2024/02/24-17:04:37.298 33a Delete type=2 #7304
+2024/02/24-17:04:37.298 33a Delete type=2 #7301
+2024/02/24-17:04:37.298 33a Delete type=2 #7306
+2024/02/24-17:04:37.298 33a Delete type=2 #7307
+2024/02/24-17:04:37.298 33a Delete type=2 #7300
+2024/02/24-17:04:37.298 33a Delete type=2 #7305
+2024/02/24-17:04:37.298 33a Delete type=2 #7299
+2024/02/24-17:04:37.298 33a Delete type=2 #7308
+2024/02/24-17:04:37.298 33a Delete type=2 #7315
+2024/02/24-17:04:37.298 33a Delete type=2 #7298
+2024/02/24-17:04:37.298 33a Delete type=2 #7309
+2024/02/24-17:04:37.298 33a Delete type=2 #7310
+2024/02/24-17:04:37.298 33a Delete type=2 #7302
+2024/02/24-17:04:37.298 33a Delete type=2 #7303

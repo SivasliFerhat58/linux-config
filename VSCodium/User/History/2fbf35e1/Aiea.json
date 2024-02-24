@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "chapter_id": 1,
+            "base_point": 10,
+            "first_point": 30,
+            "second_point": 20,
+            "third_point": 10,
+            "output": "2\n2",
+            "keywords": [
+                "for",
+                "if"
+            ],
+            "solved": 1
+        },
+        {
+            "chapter_id": 2,
+            "base_point": 10,
+            "first_point": 30,
+            "second_point": 20,
+            "third_point": 10,
+            "output": "5",
+            "keywords": [
+                "for",
+                "if"
+            ],
+            "solved": 5
+        },
+        {
+            "chapter_id": 3,
+            "base_point": 10,
+            "first_point": 30,
+            "second_point": 20,
+            "third_point": 10,
+            "output": "5",
+            "keywords": [
+                "for",
+                "if"
+            ],
+            "solved": 3
+        }
+    ],
+    "facetoface": 1
+}

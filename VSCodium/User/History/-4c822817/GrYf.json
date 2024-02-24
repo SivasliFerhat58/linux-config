@@ -1,0 +1,13 @@
+{
+    "window.titleBarStyle": "custom",
+    "editor.fontFamily": "\"Poppins\"",
+    "editor.smoothScrolling": true,
+    "editor.mouseWheelZoom": true,
+    "workbench.colorTheme": "Houston",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontFamily": "monospace",
+    "git.autofetch": true,
+    "explorer.confirmDragAndDrop": false,
+    "vscord.status.buttons.button1.git.inactive.enabled": false,
+    "vscord.status.buttons.button1.git.idle.enabled": false,
+}

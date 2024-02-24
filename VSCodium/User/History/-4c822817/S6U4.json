@@ -1,0 +1,8 @@
+{
+    "window.titleBarStyle": "custom",
+    "editor.fontFamily": "\"editor.fontFamily\": \"JetBrains Mono Nerd Font, Menlo, Monaco, 'Courier New', monospace\"",
+    "editor.smoothScrolling": true,
+    "editor.mouseWheelZoom": true,
+    "workbench.colorTheme": "Houston",
+    "workbench.iconTheme": "material-icon-theme",
+}

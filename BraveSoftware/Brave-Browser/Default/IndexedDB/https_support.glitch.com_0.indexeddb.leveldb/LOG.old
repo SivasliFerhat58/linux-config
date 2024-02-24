@@ -1,0 +1,6 @@
+2024/02/02-15:55:18.877 137f Creating DB /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_support.glitch.com_0.indexeddb.leveldb since it was missing.
+2024/02/02-15:55:18.888 137f Reusing MANIFEST /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_support.glitch.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/02-15:56:18.101 1380 Level-0 table #5: started
+2024/02/02-15:56:18.104 1380 Level-0 table #5: 4222 bytes OK
+2024/02/02-15:56:18.107 1380 Delete type=0 #3
+2024/02/02-15:56:18.108 1380 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

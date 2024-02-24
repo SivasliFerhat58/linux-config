@@ -1,0 +1,6 @@
+2024/02/06-02:18:58.006 31b Creating DB /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tr.euronews.com_0.indexeddb.leveldb since it was missing.
+2024/02/06-02:18:58.011 31b Reusing MANIFEST /home/sivasli_58/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tr.euronews.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/06-02:27:02.536 31b Level-0 table #5: started
+2024/02/06-02:27:02.538 31b Level-0 table #5: 1201 bytes OK
+2024/02/06-02:27:02.541 31b Delete type=0 #3
+2024/02/06-02:27:02.541 31b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
